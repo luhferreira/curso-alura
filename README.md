@@ -14,3 +14,15 @@ Pressione a tecla . para acessar o vs code direto do seu github <br>
 Fazendo commit pelo vs code <br>
 # Quarta aula
 Adicionando colaborador e aceitando convite para participar de um projeto
+# Quinta aula
+Instalando o git
+```
+$ git push origin master
+```
+# Sexta aula
+Aprendendo git clone e git log
+# Sétima aula
+Fazendo alterações localmente pelo vs code <br>
+Aprendendo git pull e git push <br>
+# Oitava aula
+Revisão
