@@ -26,3 +26,7 @@ Fazendo alterações localmente pelo vs code <br>
 Aprendendo git pull e git push <br>
 # Oitava aula
 Revisão
+# Nona aula
+Um pouco sobre git status, git add e git commit
+# Última aula
+Aprendendo sobre branch, git switch e git checkout
